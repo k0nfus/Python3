@@ -1,23 +1,23 @@
-a = 4
-b = 2
+a = float(input("give me your first number: "))
+b = float(input("give me your second number: "))
 
-#Addition
+# Addition
 print(a + b)
 
-#Substraction
+# Substraction
 print(a - b)
 
-#Multiplication
+# Multiplication
 print(a * b)
 
-#Division
+# Division
 print(a / b)
 
-#Exponentation
+# Exponentation
 print(a ** b)
 
-#Modulo
+# Modulo
 print(a % b)
 
-#Integer Division
+# Integer Division
 print(a//b)
