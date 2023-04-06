@@ -19,5 +19,5 @@ print(a ** b)
 # Modulo
 print(a % b)
 
-# Integer Division
+# Integer Division (theroeticall< if you don't want a float)
 print(a//b)
