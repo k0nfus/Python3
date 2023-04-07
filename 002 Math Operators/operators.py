@@ -21,3 +21,8 @@ print(a % b)
 
 # Integer Division (theroeticall< if you don't want a float)
 print(a//b)
+
+# String Concatenation
+string_eins = "ice"
+string_eins += " cream"
+print(string_eins)
